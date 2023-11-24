@@ -1,0 +1,44 @@
+2023-11-24 22:39:45,986 - INFO - Session started - flashcards initialized.
+2023-11-24 22:39:45,986 - INFO - Session started - correct_answers initialized.
+2023-11-24 22:39:45,986 - INFO - Session started - incorrect_answers initialized.
+2023-11-24 22:39:50,278 - INFO - Session started - flashcards initialized.
+2023-11-24 22:39:50,278 - INFO - Session started - correct_answers initialized.
+2023-11-24 22:39:50,279 - INFO - Session started - incorrect_answers initialized.
+2023-11-24 22:39:53,077 - WARNING - Attempted to study flashcards with no flashcards available.
+2023-11-24 22:39:56,175 - WARNING - Attempted to show statistics with no learning attempts.
+2023-11-24 22:40:13,495 - INFO - Session started - flashcards initialized.
+2023-11-24 22:40:13,495 - INFO - Session started - correct_answers initialized.
+2023-11-24 22:44:20,184 - INFO - Session started - flashcards initialized.
+2023-11-24 22:44:20,185 - INFO - Session started - correct_answers initialized.
+2023-11-24 22:44:20,186 - INFO - Session started - incorrect_answers initialized.
+2023-11-24 22:44:20,537 - INFO - Session started - flashcards initialized.
+2023-11-24 22:44:20,538 - INFO - Session started - correct_answers initialized.
+2023-11-24 22:44:20,538 - INFO - Session started - incorrect_answers initialized.
+2023-11-24 22:44:34,911 - INFO - Session started - flashcards initialized.
+2023-11-24 22:44:34,911 - INFO - Session started - correct_answers initialized.
+2023-11-24 22:44:34,911 - INFO - Session started - incorrect_answers initialized.
+2023-11-24 22:58:49,288 - INFO - Application started.
+2023-11-24 22:58:49,288 - INFO - Session started - flashcards initialized.
+2023-11-24 22:58:49,288 - INFO - Session started - correct_answers initialized.
+2023-11-24 22:58:49,288 - INFO - Session started - incorrect_answers initialized.
+2023-11-24 22:58:54,826 - INFO - Application started.
+2023-11-24 22:58:54,826 - INFO - Session started - flashcards initialized.
+2023-11-24 22:58:54,826 - INFO - Session started - correct_answers initialized.
+2023-11-24 22:58:54,826 - INFO - Session started - incorrect_answers initialized.
+2023-11-24 22:58:57,784 - INFO - Application started.
+2023-11-24 22:58:57,787 - WARNING - Attempted to study flashcards with no flashcards available.
+2023-11-24 22:58:58,817 - INFO - Application started.
+2023-11-24 22:58:58,824 - WARNING - Attempted to show statistics with no learning attempts.
+2023-11-24 22:59:00,439 - INFO - Application started.
+2023-11-24 22:59:07,492 - INFO - Application started.
+2023-11-24 22:59:07,671 - INFO - Translated German word: das Auto - \u0430\u0432\u0442\u043e\u043c\u043e\u0431\u0456\u043b\u044c
+2023-11-24 23:15:15,536 - INFO - Session started - flashcards initialized.
+2023-11-24 23:15:15,536 - INFO - Session started - correct_answers initialized.
+2023-11-24 23:15:15,536 - INFO - Session started - incorrect_answers initialized.
+2023-11-24 23:15:24,659 - INFO - Session started - flashcards initialized.
+2023-11-24 23:15:24,659 - INFO - Session started - correct_answers initialized.
+2023-11-24 23:15:24,659 - INFO - Session started - incorrect_answers initialized.
+2023-11-24 23:15:33,093 - INFO - Flashcard added: trhthfghgfh - jgfjhgj - zzz
+2023-11-24 23:15:37,664 - INFO - Viewed flashcard: trhthfghgfh - jgfjhgj - zzz
+2023-11-24 23:15:38,895 - INFO - Viewed flashcard in category \u0412\u0441\u0456: trhthfghgfh - jgfjhgj
+2023-11-24 23:15:40,078 - WARNING - Attempted to show statistics with no learning attempts.
